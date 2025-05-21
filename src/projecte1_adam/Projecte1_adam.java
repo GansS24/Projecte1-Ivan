@@ -4,6 +4,7 @@ public class Projecte1_adam {
 
     public static void main(String[] args) {
         
+        System.out.println("Hola");
     }
     
 }
